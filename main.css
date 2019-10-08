@@ -417,7 +417,7 @@ body {
 	background-color: #2E5AA9;
 	text-align: center;
 	padding: 50px 0;
-	background-image: url(https://www.doconcall.com.my/images/new_home/doctoroncall_background.jpg);
+	background-image: url(/img/doctoroncall_background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -452,6 +452,9 @@ body {
 @media (max-width:960px) {
 	.first-footer p {
 		padding-right: 0
+	}
+	.page-title{
+		line-height: 40px;
 	}
 }
 
