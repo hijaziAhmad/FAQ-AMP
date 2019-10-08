@@ -6,7 +6,7 @@
 		"name": "What is DoctorOnCall?",
 		"acceptedAnswer": {
 			"@type": "Answer",
-			"text": "DoctorOnCall is a telehealth service that provides online medical-consultation and pharmacy which allows patients/customers to get the medical services they need from anywhere they are. We also provide a platform for users to ask questions to our doctors for free on top of health articles that cover various conditions and diseases."
+			"text": "DoctorOnCall is an online health provider, offering medication and online consultation services, allowing consumers to get the medical services they need instantly."
 		}
 	},{
 		"@type": "Question",
@@ -24,40 +24,26 @@
 		}
 },{
 		"@type": "Question",
-		"name": "How do I connect to the doctor?",
+		"name": "How do I connect to a doctor?",
 		"acceptedAnswer": {
 			"@type": "Answer",
-			"text": "You can simply get connected to our doctor by registering on our website or click this <a href='https://www.doctoroncall.com.my/patient#/signup'>link</a> and choose the mode of consultation that you prefer. You also can dial our number at <a href='tel:+60384082000'>+60384082000</a>"
+			"text": "You can simply get connected to our doctor by clicking this <a href='https://www.doctoroncall.com.my/patient#/signup'>link</a>and choose your preferred mode of consultation."
 		}
 	}, {
 		"@type": "Question",
 		"name": "Who are the doctors at DoctorOnCall?",
 		"acceptedAnswer": {
 			"@type": "Answer",
-			"text": "Our doctors are certified practitioners registered with Malaysia Medical Council."
+			"text": "All doctors partnered with DoctorOnCall are MOH-registered and have at least 6 years of practice in their experience. As such, our panel doctors have a valid MMC Registration and Annual Practicing Certificate (APC)."
 		}
-	}, {
-		"@type": "Question",
-		"name": "Do the doctors have legitimate practicing license?",
-		"acceptedAnswer": {
-			"@type": "Answer",
-			"text": "Yes, all the doctors partnered withon the DoctorOnCall panel are MOH- registered and have at least 6 years of practice. As such, our doctors have a valid MMC Registration and Annual Practicing Certificate (APC)."
-		}
-},{
+	},{
 		"@type": "Question",
 		"name": "What is DoctorOnCall’s Privacy and Security Policies?",
 		"acceptedAnswer": {
 			"@type": "Answer",
-			"text": "At DoctorOnCall, your privacy and security are extremely important to us. We are committed to protect the confidentiality of your personal and restrict patient information to only authorised personnel and your doctor. The information is kept private, unless consent is granted by the patient to share this information. Click <a href='https://doctoroncall.com.my/privacyPolicy'>here</a> to read more about our Privacy Policy."
+			"text": "At DoctorOnCall, your privacy and security are extremely important to us. We are committed to protect the confidentiality of your personal and restrict patient information to only authorised personnel and your doctor. The information is kept private, unless prior consent is granted by the patient to share this information. Click <a href='https://doctoroncall.com.my/privacyPolicy'>here</a> to read more about our Privacy Policy."
 		}
-},{
-		"@type": "Question",
-		"name": "What are the services provided by DoctorOnCall?",
-		"acceptedAnswer": {
-			"@type": "Answer",
-			"text": "We provide doctors booking, online forum and employee benefits."
-		}
-	}, {
+}, {
 		"@type": "Question",
 		"name": "How Is the diagnosis made without any physical observation being made?",
 		"acceptedAnswer": {
@@ -69,49 +55,35 @@
 		"name": "Can I get MC from DoctorOnCall?",
 		"acceptedAnswer": {
 			"@type": "Answer",
-			"text": "Our doctors will only provide MC if you are our corporate panel. Please check with your HR regarding this matter. Please be aware that MC will only be provided if you are really sick and unable to attend your job. "
+			"text": "Medical Certificates(MC's) / sick notes are provided with consultation to those with corporate partnerships with DoctorOnCall."
 		}
 	}, {
 		"@type": "Question",
 		"name": "Is DoctorOnCall available on mobile app?",
 		"acceptedAnswer": {
 			"@type": "Answer",
-			"text": "Unfortunately, we are yet to develop an app for our service. However, do stay tuned and wait for our good news!"
+			"text": "Unfortunately, we do not yet have an app service."
 		}
 	}, {
 		"@type": "Question",
-		"name": "Does DoctorOnCall have a physical clinic?",
+		"name": "Does DoctorOnCall have a physical clinic / pharmacy?",
 		"acceptedAnswer": {
 			"@type": "Answer",
-			"text": "DoctorOnCall operates solely as an online clinic and we do not have a physical clinic."
+			"text": "DoctorOnCall operates solely as an online clinic. We do not have a physical clinic / pharmacy."
 		}
 	}, {
 		"@type": "Question",
-		"name": "Does DoctorOnCall provide emergency services?",
+		"name": "Does DoctorOnCall provide home visits or emergency services?",
 		"acceptedAnswer": {
 			"@type": "Answer",
-			"text": "We do not provide emergency services. Please visit your nearest hospital emergency department for emergency medical attention."
-		}
-	}, {
-		"@type": "Question",
-		"name": "Does DoctorOnCall provide home visit?",
-		"acceptedAnswer": {
-			"@type": "Answer",
-			"text": "DoctorOnCall only provides online medical consultation and does not have home visit service."
+			"text": "We do not provide home visits or emergency services. Please visit your nearest hospital emergency department for urgent medical attention."
 		}
 	},  {
-		"@type": "Question",
-		"name": "Do I need to subscribe to DoctorOnCall for their services?",
-		"acceptedAnswer": {
-			"@type": "Answer",
-			"text": "No, you are not required to subscribe to us to use our services. However, we do recommend you to subscribe to keep you up to date with our latest news, offers, and articles."
-		}
-	}, {
 		"@type": "Question",
 		"name": "What are the payment methods available for DoctorOnCall services?",
 		"acceptedAnswer": {
 			"@type": "Answer",
-			"text": "You can pay our services via Online Banking, Boost, GrabCredit and Credit card."
+			"text": "We accept payment via Online Banking, Credit Card, e-Wallets (Boost, GrabPay) and Cash-on-Delivery"
 		}
 	}, {
 		"@type": "Question",
@@ -122,17 +94,10 @@
 		}
 },{
 		"@type": "Question",
-		"name": "Can I pay Cash On Delivery?",
+		"name": "Can I claim payment made to DoctorOnCall from my insurance provider?",
 		"acceptedAnswer": {
 			"@type": "Answer",
-			"text": "We accept payment in cash on delivery for customers around the Klang Valley area.However, cash on delivery will attract RM15 surcharge. "
-		}
-	},{
-		"@type": "Question",
-		"name": "Can I claim my payment to DoctorOnCall from my insurance provider?",
-		"acceptedAnswer": {
-			"@type": "Answer",
-			"text": "We are currently in partnership with a few insurance providers. Please check with your insurance provider to confirm."
+			"text": "This depends on your subscribed policy with your insurance provider. Please check with your insurance representative."
 		}
 	}, {
 		"@type": "Question",
